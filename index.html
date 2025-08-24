@@ -26,7 +26,7 @@
                 url: '/pages/'+page_url+'.json',
                 cache: false,
                 success: function(result) {
-                    renderArticle(JSON.parse(result));
+                    renderArticle(result);
                 },
                 error:function(er){
                     renderArticle({"meta":{"id":"404","title":"404 - ShitHub","summary":"404 | ShitHub","authors":["JuX"],"publishedDate":"2025-08-19T12:14:00.000Z","updatedDate":"2025-08-19T12:14:00.000Z"},"content":[{"id":"block_003","type":"image","data":{"url":"/assets/logo.jpg","width":"55%","alt":"logo"}},{"id":"block_004","type":"heading","data":{"text":"404 Not Found","level":2}},{"id":"block_012","type":"embed","data":{"url":"/?page=main","title":"你查找的页面不存在，点击返回主页"}}]});
