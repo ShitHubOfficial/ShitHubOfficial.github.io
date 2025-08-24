@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "id": "main",
+        "title": "ShitHub",
+        "summary": "微尘Dust | ShitHub Wiki",
+        "authors": [
+            "JuX"
+        ],
+        "publishedDate": "2025-08-19T12:25:00.000Z",
+        "updatedDate": "2025-08-19T12:25:00.000Z"
+    },
+    "content": [
+        {
+            "id": "block_001",
+            "type": "image",
+            "data": {
+                "url": "/assets/logo.jpg",
+                "width": "55%",
+                "alt": "logo"
+            }
+        },
+        {
+            "id": "block_002",
+            "type": "image",
+            "data": {
+                "url": "https://q1.qlogo.cn/g?b=qq&nk=180441305&s=640",
+                "width": "35%",
+                "alt": "logo"
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "center",
+            "data": {
+                "text": "微尘Dust"
+            }
+        },
+        {
+            "id": "block_005",
+            "type": "heading",
+            "data": {
+                "text": "微尘Dust(又称dustbin、紫水晶)",
+                "level": 4
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "paragraph",
+            "data": {
+                "text": "微尘的外号紫水晶来自他于小学时期(大概2020年)时制作的头像"
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "paragraph",
+            "data": {
+                "text": "在2025年8月5日发布于紫水晶批发市场的活动中"
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "paragraph",
+            "data": {
+                "text": "[云里是个太阳](/?page=gua/wiki/sunpromax)在picrew热门狂翻28页"
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "paragraph",
+            "data": {
+                "text": "找到了紫水晶的头像制作页(见:[wiki:寻找紫水晶](/?page=gua/wiki/findofdustbin))"
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "paragraph",
+            "data": {
+                "text": "以及后来的[JuX](/?page=gua/wiki/jux)与[Howie](/?page=gua/wiki/howie)逆向网站"
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "paragraph",
+            "data": {
+                "text": "而“紫水晶”起初来源于[sajvwm](/?page=gua/wiki/sajvwm)的奇思妙想..."
+            }
+        },
+                {
+            "id": "block_002",
+            "type": "image",
+            "data": {
+                "url": "/assets/dustbin.png",
+                "width": "45%",
+                "alt": "dustbin",
+                "caption":"微尘头像（旧）"
+            }
+        },
+        {
+            "id": "block_002",
+            "type": "image",
+            "data": {
+                "url": "/assets/sajvwmsthink.jpg",
+                "width": "65%",
+                "alt": "sajvwmsthink",
+                "caption":"sajvwm的奇思妙想"
+            }
+        },
+
+        {
+            "id": "block_012",
+            "type": "embed",
+            "data": {
+                "url": "/?page=gua/doc/dustbin",
+                "title": "点击查看关于微尘Dust的聊天记录"
+            }
+        }
+    ]
+}

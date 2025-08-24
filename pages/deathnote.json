@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "id": "main",
+        "title": "ShitHub",
+        "summary": "DeathNote | ShitHub",
+        "authors": [
+            "JuX"
+        ],
+        "publishedDate": "2025-08-19T12:25:00.000Z",
+        "updatedDate": "2025-08-19T12:25:00.000Z"
+    },
+    "content": [
+        {
+            "id": "block_001",
+            "type": "image",
+            "data": {
+                "url": "/assets/logo.jpg",
+                "width": "55%",
+                "alt": "logo"
+            }
+        },
+        {
+            "id": "block_002",
+            "type": "heading",
+            "data": {
+                "text": "死亡笔记 | 互联网神人榜",
+                "level": 2
+            }
+        },
+        {
+            "id": "block_005",
+            "type": "list",
+            "data": {
+                "style": "unordered",
+                "items": [
+                    "[sajvwm](/?page=doc/sajvwm)",
+                    "[微尘Dust](/?page=doc/sajvwm)",
+                    "[云里是个太阳](/?page=doc/sunpromax)",
+                    "[棍母](/?page=doc/dghj)",
+                    "[Howie114514](/?page=doc/howie)"
+                ]
+            }
+        },
+        {
+            "id": "block_006",
+            "type": "center",
+            "data": {
+                "text": "欢迎投稿至:jijiucha@gmail.com"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "meta": {
+        "id": "main",
+        "title": "ShitHub",
+        "summary": "欢迎来到wiki | ShitHub",
+        "authors": [
+            "JuX"
+        ],
+        "publishedDate": "2025-08-19T12:25:00.000Z",
+        "updatedDate": "2025-08-19T12:25:00.000Z"
+    },
+    "content": [
+        {
+            "id": "block_003",
+            "type": "image",
+            "data": {
+                "url": "/assets/logo.jpg",
+                "width": "55%",
+                "alt": "logo"
+            }
+        },
+        {
+            "id": "block_004",
+            "type": "heading",
+            "data": {
+                "text": "已收录人物词条",
+                "level": 2
+            }
+        },
+        {
+            "id": "block_005",
+            "type": "list",
+            "data": {
+                "style": "unordered",
+                "items": [
+                    "[sajvwm](/?page=gua/wiki/sajvwm)",
+                    "[微尘Dust](/?page=gua/wiki/dustbin)",
+                    "[云里是个太阳](/?page=gua/wiki/sunpromax)",
+                    "[棍母](/?page=gua/wiki/dghj)",
+                    "[Howie114514](/?page=gua/wiki/howie)"
+                ]
+            }
+        },
+        {
+            "id": "block_012",
+            "type": "embed",
+            "data": {
+                "url": "/?page=gua/main",
+                "title": "点击返回呱呱群主页"
+            }
+        }
+    ]
+}

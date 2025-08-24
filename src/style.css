@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #2c3e50;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    min-height: 100vh;
+}
+
+#page {
+    width: 100%;
+    background: white;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.article {
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+a.article-link{
+  text-decoration: none;
+}
+
+a.article-link:link{
+  color: #B06C03;
+}
+
+a.article-link:visited{
+  color: #B06C03;
+}
+
+.article-header {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #eaeaea;
+}
+
+.article-title {
+    font-size: 2.8rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.article-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    color: #7f8c8d;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.authors {
+    font-weight: 600;
+    color: #3498db;
+}
+
+.dates {
+    font-style: italic;
+}
+
+.article-summary {
+    background: #f8f9fa;
+    padding: 20px;
+    border-left: 5px solid #3498db;
+    margin: 25px 0;
+    border-radius: 0 8px 8px 0;
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+
+.content-block {
+    margin: 30px 0;
+}
+
+.heading {
+    color: #2c3e50;
+    margin: 40px 0 20px 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #eee;
+    font-weight: 600;
+}
+
+.heading-level-1 {
+    font-size: 2.4rem;
+}
+
+.heading-level-2 {
+    font-size: 2.0rem;
+}
+
+.heading-level-3 {
+    font-size: 1.7rem;
+}
+
+.heading-level-4 {
+    font-size: 1.5rem;
+}
+
+.heading-level-5 {
+    font-size: 1.3rem;
+}
+
+.heading-level-6 {
+    font-size: 1.2rem;
+}
+
+.paragraph {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.image-container {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.article-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    transition: transform 0.3s ease;
+}
+
+.article-image:hover {
+    transform: scale(1.01);
+}
+
+.image-caption {
+    margin-top: 15px;
+    font-style: italic;
+    color: #7f8c8d;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.list-container {
+    margin: 25px 0;
+    padding-left: 35px;
+}
+
+.list-unordered {
+    list-style-type: disc;
+}
+
+.list-ordered {
+    list-style-type: decimal;
+}
+
+.list-item {
+    margin: 12px 0;
+    font-size: 1.15rem;
+    line-height: 1.6;
+}
+
+.code-container {
+    margin: 30px 0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.code-header {
+    background: #2d3748;
+    color: white;
+    padding: 12px 20px;
+    font-family: 'Fira Code', monospace;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+}
+
+.code-content {
+    background: #1a202c;
+    padding: 20px;
+    overflow-x: auto;
+}
+
+.code-content pre {
+    margin: 0;
+}
+
+.code-content code {
+    font-family: 'Fira Code', monospace;
+    color: #cbd5e0;
+    line-height: 1.5;
+}
+
+.quote-container {
+    margin: 30px 0;
+    padding: 30px 40px;
+    background: #f8f9fa;
+    border-left: 5px solid #3498db;
+    border-radius: 0 8px 8px 0;
+}
+
+.quote-text {
+    font-size: 1.4rem;
+    line-height: 1.6;
+    color: #2c3e50;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.quote-author {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    text-align: right;
+    font-weight: 500;
+}
+
+.divider {
+    height: 1px;
+    background: linear-gradient(to right, transparent, #ddd, transparent);
+    margin: 40px 0;
+    border: none;
+}
+
+.embed-container {
+    margin: 30px 0;
+    text-align: center;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+.embed-placeholder {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 2px solid #eaeaea;
+    color: #7f8c8d;
+    font-size: 0.95rem;
+}
+
+@media (max-width: 768px) {
+    .article {
+        padding: 25px;
+    }
+
+    .article-title {
+        font-size: 2.2rem;
+    }
+
+    .heading-level-1 {
+        font-size: 2.0rem;
+    }
+
+    .heading-level-2 {
+        font-size: 1.8rem;
+    }
+
+    .heading-level-3 {
+        font-size: 1.5rem;
+    }
+
+    .list-container {
+        padding-left: 25px;
+    }
+
+    .quote-container {
+        padding: 20px;
+    }
+
+    .quote-text {
+        font-size: 1.2rem;
+    }
+}
+
+p.center{
+    width:100%;
+    text-align: center;
+}
