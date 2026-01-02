@@ -33,11 +33,11 @@
             "data": {
                 "style": "unordered",
                 "items": [
-                    "[sajvwm](/?page=gua/doc/sajvwm)",
-                    "[微尘Dust](/?page=gua/doc/sajvwm)",
-                    "[云里是个太阳](/?page=gua/doc/sunpromax)",
-                    "[棍母](/?page=gua/doc/dghj)",
-                    "[Howie114514](/?page=gua/doc/howie)"
+                    "[sajvwm](/?page=doc/sajvwm)",
+                    "[微尘Dust](/?page=doc/sajvwm)",
+                    "[云里是个太阳](/?page=doc/sunpromax)",
+                    "[棍母](/?page=doc/dghj)",
+                    "[Howie114514](/?page=doc/howie)"
                 ]
             }
         },
@@ -45,7 +45,7 @@
             "id": "block_012",
             "type": "embed",
             "data": {
-                "url": "/?page=gua/wiki/wiki",
+                "url": "/?page=wiki/wiki",
                 "title": "点击查看wiki"
             }
         }

@@ -33,11 +33,11 @@
             "data": {
                 "style": "unordered",
                 "items": [
-                    "[sajvwm](/?page=gua/wiki/sajvwm)",
-                    "[微尘Dust](/?page=gua/wiki/dustbin)",
-                    "[云里是个太阳](/?page=gua/wiki/sunpromax)",
-                    "[棍母](/?page=gua/wiki/dghj)",
-                    "[Howie114514](/?page=gua/wiki/howie)"
+                    "[sajvwm](/?page=wiki/sajvwm)",
+                    "[微尘Dust](/?page=wiki/dustbin)",
+                    "[云里是个太阳](/?page=wiki/sunpromax)",
+                    "[棍母](/?page=wiki/dghj)",
+                    "[Howie114514](/?page=wiki/howie)"
                 ]
             }
         },
@@ -45,7 +45,7 @@
             "id": "block_012",
             "type": "embed",
             "data": {
-                "url": "/?page=gua/main",
+                "url": "/?page=main",
                 "title": "点击返回呱呱群主页"
             }
         }

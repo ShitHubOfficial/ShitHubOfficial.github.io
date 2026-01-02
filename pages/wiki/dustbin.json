@@ -61,28 +61,28 @@
             "id": "block_004",
             "type": "paragraph",
             "data": {
-                "text": "[云里是个太阳](/?page=gua/wiki/sunpromax)在picrew热门狂翻28页"
+                "text": "[云里是个太阳](/?page=wiki/sunpromax)在picrew热门狂翻28页"
             }
         },
         {
             "id": "block_004",
             "type": "paragraph",
             "data": {
-                "text": "找到了紫水晶的头像制作页(见:[wiki:寻找紫水晶](/?page=gua/wiki/findofdustbin))"
+                "text": "找到了紫水晶的头像制作页(见:[wiki:寻找紫水晶](/?page=wiki/findofdustbin))"
             }
         },
         {
             "id": "block_004",
             "type": "paragraph",
             "data": {
-                "text": "以及后来的[JuX](/?page=gua/wiki/jux)与[Howie](/?page=gua/wiki/howie)逆向网站"
+                "text": "以及后来的[JuX](/?page=wiki/jux)与[Howie](/?page=wiki/howie)逆向网站"
             }
         },
         {
             "id": "block_004",
             "type": "paragraph",
             "data": {
-                "text": "而“紫水晶”起初来源于[sajvwm](/?page=gua/wiki/sajvwm)的奇思妙想..."
+                "text": "而“紫水晶”起初来源于[sajvwm](/?page=wiki/sajvwm)的奇思妙想..."
             }
         },
                 {
@@ -110,7 +110,7 @@
             "id": "block_012",
             "type": "embed",
             "data": {
-                "url": "/?page=gua/doc/dustbin",
+                "url": "/?page=doc/dustbin",
                 "title": "点击查看关于微尘Dust的聊天记录"
             }
         }
